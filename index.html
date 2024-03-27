@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WHICH LEAD CANDIDATE ARE YOU?</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="background-image">
+    <div class="container">
+        <h1 class="title">WHICH LEAD CANDIDATE ARE YOU?</h1>
+        <div id="question-container" class="question-container">
+            <!-- Questions will be dynamically added here -->
+        </div>
+        <!-- Next, Previous, and Submit buttons container -->
+        <div id="button-container" class="button-container">
+            <button id="prev-btn" class="btn" onclick="prevQuestion()">Previous</button>
+            <button id="next-btn" class="btn" onclick="nextQuestion()">Next</button>
+            <button id="submit-btn" class="btn" onclick="submitTest()">Submit</button>
+        </div>
+        <!-- Result container (initially hidden) -->
+        <div id="result-container" class="result-container" style="display: none;">
+            <h2 class="result-title">Your LEAD candidate is</h2>
+            <p id="result-text" class="result-text"></p>
+            <img id="result-image" class="result-image" src="" alt="Result Image">
+        </div>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
