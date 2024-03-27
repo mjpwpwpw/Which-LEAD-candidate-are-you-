@@ -178,7 +178,7 @@ function displayMBTIResult(result) {
         'ENTP': { name: 'James Apit', image: '"C:/Users/somni/Downloads/web/personalities/288886370_179462924523363_1417306929075472450_n.jpg"' },
         'ESFJ': { name: 'Kaye Bebanco', image: '"C:/Users/somni/Downloads/web/personalities/381468424_1363909447838233_4151381469487067753_n.jpg"' },
         'ESFP': { name: 'Kael Torralba', image: '"C:/Users/somni/Downloads/web/personalities/349138106_779733770421980_6918836794942887867_n.jpg"' },
-        'ESTJ': { name: 'Hugh De Luna', image: '"C:/Users/somni/Downloads/web/personalities/409812091_6780866172010779_3921402763997092665_n.jpg"' },
+        'ESTJ': { name: 'Hugh De Luna', image: '"409812091_6780866172010779_3921402763997092665_n.jpg"' },
         'ESTP': { name: 'Olivia Wilson', image: 'path/to/estp_image.jpg' },
         'INFJ': { name: 'Daniel Thompson', image: 'path/to/infj_image.jpg' },
         'INFP': { name: 'Emma Davis', image: 'path/to/infp_image.jpg' },
