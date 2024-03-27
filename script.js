@@ -172,12 +172,12 @@ function displayMBTIResult(result) {
 
     // Define personality images and names
     const personalityData = {
-        'ENFJ': { name: 'May Dorico', image: '"C:/Users/somni/Downloads/web/personalities/president.jpg"' },
-        'ENFP': { name: 'Charles Sanchez', image: '"C:/Users/somni/Downloads/web/personalities/391704297_3001693116628723_3058199121136542060_n.jpg"' },
-        'ENTJ': { name: 'Elizvet Ato', image: '"C:/Users/somni/Downloads/web/personalities/353857061_9369601596443728_8945060651477578842_n.jpg"' },
-        'ENTP': { name: 'James Apit', image: '"C:/Users/somni/Downloads/web/personalities/288886370_179462924523363_1417306929075472450_n.jpg"' },
-        'ESFJ': { name: 'Kaye Bebanco', image: '"C:/Users/somni/Downloads/web/personalities/381468424_1363909447838233_4151381469487067753_n.jpg"' },
-        'ESFP': { name: 'Kael Torralba', image: '"C:/Users/somni/Downloads/web/personalities/349138106_779733770421980_6918836794942887867_n.jpg"' },
+        'ENFJ': { name: 'May Dorico', image: '"president.jpg"' },
+        'ENFP': { name: 'Charles Sanchez', image: '"288886370_179462924523363_1417306929075472450_n.jpg"' },
+        'ENTJ': { name: 'Elizvet Ato', image: '"349138106_779733770421980_6918836794942887867_n.jpg"' },
+        'ENTP': { name: 'James Apit', image: '"353857061_9369601596443728_8945060651477578842_n.jpg"' },
+        'ESFJ': { name: 'Kaye Bebanco', image: '"381468424_1363909447838233_4151381469487067753_n.jpg"' },
+        'ESFP': { name: 'Kael Torralba', image: '"391704297_3001693116628723_3058199121136542060_n.jpg"' },
         'ESTJ': { name: 'Hugh De Luna', image: '"409812091_6780866172010779_3921402763997092665_n.jpg"' },
         'ESTP': { name: 'Olivia Wilson', image: 'path/to/estp_image.jpg' },
         'INFJ': { name: 'Daniel Thompson', image: 'path/to/infj_image.jpg' },
