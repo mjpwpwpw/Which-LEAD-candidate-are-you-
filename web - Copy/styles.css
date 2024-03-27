@@ -1,0 +1,49 @@
+.background-image{
+    background-image: url("C:/Users/somni/Downloads/web/BG images/family.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Rest of your CSS styles */
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Add a background color for better readability */
+}
+
+.title {
+    color: #333;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.question-container {
+    margin-top: 30px;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    background-color: #eecc74;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #b37700;
+}
+
+.result-container {
+    margin-top: 30px;
+}
